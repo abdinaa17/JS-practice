@@ -21,6 +21,7 @@ function binarySearch(arr, num) {
     return arr[middle] === num ? middle : `${num} is not in arr`
 } 
 
+// Big O is O(logn)
 
 
 console.log(binarySearch(arr, 15))
