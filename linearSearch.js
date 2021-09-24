@@ -13,4 +13,4 @@ function linearSerach(arr, num) {
 
 console.log(linearSerach(arr, 5))
 
-// BIG O IS O(1) IN BEST CASE AND O(n) IN WORST CASE.
+// BIG O IS O(n)
